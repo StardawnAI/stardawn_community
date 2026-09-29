@@ -1,0 +1,5 @@
+# This directory is a Syncthing folder marker.
+# Do not delete.
+
+folderID: awg-projects--stardawn-community
+created: 2026-09-29T17:46:17+02:00
